@@ -26,4 +26,4 @@ else
     echo "Aucun utilisateur standard trouvé."
     exit 1
 fi
-#testor
+#By Le merou de l espace
