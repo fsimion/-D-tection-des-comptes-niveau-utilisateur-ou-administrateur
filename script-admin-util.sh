@@ -26,4 +26,4 @@ else
     echo "Aucun utilisateur standard trouvé."
     exit 1
 fi
-#test
+#testor
